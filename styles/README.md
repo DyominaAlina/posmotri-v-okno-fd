@@ -1,1 +1,0 @@
-https://github.com/DyominaAlina/posmotri-v-okno-fd
