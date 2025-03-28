@@ -278,7 +278,8 @@ ol {
 }
 
 .content__card-link:active,
-.button:active {
+.button:active,
+.content__card-link_current {
   background-color: #545050;
 }
 
